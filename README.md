@@ -1,4 +1,4 @@
 # ONLINE BANKING SYSTEM
-
-for front-end: html,css,javascript    for back-end: node.js    Database used: mongoDB
+The Sparks Foundation: GRIP task#1 
+A simple Dynamic website based on online banking system.
 
